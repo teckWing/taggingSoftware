@@ -2,8 +2,10 @@
 
 This repo allows you to create your own database of football events.
 
-![alt text](https://github.com/teckWing/taggingSoftware/blob/utils/mediaplayer.png?raw=true)
-![alt text](https://github.com/teckWing/taggingSoftware/blob/utils/dash.png?raw=true)
+![mediaplayer](utils/mediaplayer.png)
+
+![mediaplayer](utils/dash.png)
+
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
