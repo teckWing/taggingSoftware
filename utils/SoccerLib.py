@@ -450,8 +450,7 @@ class MainWindow(QMainWindow):
         btn14 = QPlayer("Sub3",self.table,self.record)
         btn15 = QPlayer("Sub4",self.table,self.record)
         btn16 = QPlayer("Sub5",self.table,self.record)
-        btn17 = QPlayer("Sub6",self.table,self.record)
-        btn18 = QPlayer("Sub7",self.table,self.record)
+        
         
         label = QLabel()
         pixmap = QPixmap("utils/bg2.png")
@@ -474,8 +473,6 @@ class MainWindow(QMainWindow):
         self.grid_player.addWidget(btn14, 0, 5)
         self.grid_player.addWidget(btn15, 1, 3)
         self.grid_player.addWidget(btn16, 1, 4)
-        self.grid_player.addWidget(btn17, 1, 5)
-        self.grid_player.addWidget(btn18, 2, 3)
 
 
 
