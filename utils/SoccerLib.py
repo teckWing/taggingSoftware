@@ -358,7 +358,7 @@ class MainWindow(QMainWindow):
         grid_action=QGridLayout()
         grid_action.addWidget(QAction("Offensive Possession",self.record),0,0)
         
-        grid_action.addWidget(QAction("Difensive Possession",self.record),0,1)
+        grid_action.addWidget(QAction("Defensive Possession",self.record),0,1)
         vbox.addLayout(grid_action)
         vbox.addLayout(hbox)    
         

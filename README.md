@@ -25,7 +25,7 @@ You must follow the following steps:
 After finishing the setup, now you are ready !!
 You should follow this steps:
 
-* Select whether this is an offensive or defensive action with `Offensive Possession` and `Difensive Possession ` button rispectively. These buttons remain pressed until you deselect them or change to the other unselected one;
+* Select whether this is an offensive or defensive action with `Offensive Possession` and `Defensive Possession ` button rispectively. These buttons remain pressed until you deselect them or change to the other unselected one;
 * Select player with left click on the `Player` buttons;
 * Enter the coordinates of the event by double-clicking on the soccer field. The first click will be the start coordinates while the second click will be the end coordinates. If you clicked wrong, clicking again and you will restart.
 * Select the type of event using the `Event` buttons. After that you can select additional information by selecting items in the sub-events and tags checkboxes.
